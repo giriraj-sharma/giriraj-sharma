@@ -3,10 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Giriraj+Sharma;Full+Stack+Web+Developer;DSA+%7C+Programmer+%7C+Problem+Solver;Next.js+%7C+React+%7C+Node.js+Developer" />
 </p>
 
-<!-- Tech Stack Heading -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=7CFC00&width=500&center=true&lines=Tech+Stack" />
-</h1>
+<!-- Static Tech Stack Heading -->
+<h1 align="center">Tech Stack</h1>
 
 <!-- Frontend -->
 <h2 align="center">Frontend</h2>

@@ -40,7 +40,7 @@
 
 </p>
 
-## Tech Stack
+<h1>Tech Stack</h1>
 
 ## Frontend
 

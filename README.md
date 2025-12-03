@@ -5,7 +5,14 @@
 ## Contact
 
 **Email:**  
-[giriraj1020@gmail.com](mailto:giriraj1020@gmail.com)
+<a href="mailto:giriraj1020@gmail.com" style="text-decoration:none;color:#4A90E2;font-weight:600;">
+  giriraj1020@gmail.com
+</a>
+
+**Mobile:**  
+<a href="tel:+919034755877" style="text-decoration:none;color:#4A90E2;font-weight:600;">
+  +91 90347 55877
+</a>
 
 
 <p align="left">

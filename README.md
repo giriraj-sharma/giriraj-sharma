@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Giriraj+Sharma;Full+Stack+Web+Developer;DSA+%7C+Programmer+%7C+Problem+Solver;Next.js+%7C+React+%7C+Node.js+Developer" />
 </p>
 
-<!-- Static but Vibrant Tech Stack Heading -->
+<!-- Tech Stack Heading (Static + Same Color as Contact & Connect) -->
 <h1 align="center">
   <span style="color:#00E7FF;">Tech Stack</span>
 </h1>
@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </p>
 
-<!-- Tools -->
+<!-- Tools & DevOps -->
 <h2 align="center">Tools & DevOps</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,postman" />
@@ -40,11 +40,12 @@
 
 <br/><br/>
 
-<!-- Contact + Connect Section -->
+<!-- Contact + Connect Section (Animated Heading) -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00E7FF&width=500&center=true&lines=Contact+%26+Connect" />
 </h1>
 
+<!-- Contact Info -->
 <p align="center">
 
   <strong>Email:</strong>
@@ -56,16 +57,20 @@
 
 </p>
 
+<!-- Social Icons -->
 <p align="center">
 
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/girirajsharma" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
   </a>
 
+  <!-- Instagram -->
   <a href="https://instagram.com/girirajxsharma" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
   </a>
 
+  <!-- LeetCode (Vibrant Colored Logo) -->
   <a href="https://leetcode.com/leetgiriraj" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="55"/>
   </a>

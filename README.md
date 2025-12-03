@@ -14,26 +14,18 @@
   +91 90347 55877
 </a>
 
-
-<div align="left" style="
-  display:flex;
-  gap:18px;
-  padding:12px 18px;
-  border-radius:12px;
-  backdrop-filter: blur(8px);
-  background: rgba(255,255,255,0.15);
-">
+<p align="left">
 
   <a href="https://linkedin.com/in/girirajsharma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="46"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" style="margin-right:12px;"/>
   </a>
 
   <a href="https://instagram.com/girirajxsharma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="46"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" style="margin-right:12px;"/>
   </a>
 
   <a href="https://leetcode.com/leetgiriraj" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="46"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" width="48" style="margin-right:12px;"/>
   </a>
 
-</div>
+</p>

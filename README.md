@@ -42,9 +42,6 @@
 <p align="center">
   <strong>Email:</strong>
   <a href="mailto:giriraj1020@gmail.com">giriraj1020@gmail.com</a>
-  <br/><br/>
-  <strong>Mobile:</strong>
-  <a href="tel:+919034755877">+91 90347 55877</a>
 </p>
 
 <!-- Social -->

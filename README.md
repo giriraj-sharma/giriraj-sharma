@@ -39,8 +39,7 @@
   </a>
 
 </p>
-
-💻 Tech Stack
+## Tech Stack
 ## Frontend
 
 <p>

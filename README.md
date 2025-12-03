@@ -4,9 +4,7 @@
 </p>
 
 <!-- Tech Stack Heading (Static + Same Color as Contact & Connect) -->
-<h1 align="center">
-  <span style="color:#00E7FF;">Tech Stack</span>
-</h1>
+<h1 align="center" style="color:#00E7FF;">Tech Stack</h1>
 
 <!-- Frontend -->
 <h2 align="center">Frontend</h2>

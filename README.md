@@ -39,3 +39,11 @@
   </a>
 
 </p>
+
+💻 Tech Stack
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,vue,angular" />
+</p>
+

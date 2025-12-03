@@ -15,14 +15,25 @@
 </a>
 
 
-<p align="left">
-<a href="https://linkedin.com/in/girirajsharma" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-<a href="https://instagram.com/girirajxsharma" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
-<a href="https://leetcode.com/leetgiriraj" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
-</a>
-</p>
+<div align="left" style="
+  display:flex;
+  gap:18px;
+  padding:12px 18px;
+  border-radius:12px;
+  backdrop-filter: blur(8px);
+  background: rgba(255,255,255,0.15);
+">
+
+  <a href="https://linkedin.com/in/girirajsharma" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46"/>
+  </a>
+
+  <a href="https://instagram.com/girirajxsharma" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="46"/>
+  </a>
+
+  <a href="https://leetcode.com/leetgiriraj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="46"/>
+  </a>
+
+</div>

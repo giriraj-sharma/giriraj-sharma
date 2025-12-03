@@ -18,7 +18,8 @@
 <br/>
 
 <!-- Social Icons -->
-🌐 Connect With Me
+## Connect With Me
+
 <p align="left">
 
   <!-- LinkedIn -->

@@ -31,7 +31,7 @@
 
 <h2 align="center">Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
 
 <br/><br/>
@@ -50,9 +50,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
   
-  <a href="https://instagram.com/girirajxsharma" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
-  </a>
 
   <a href="https://leetcode.com/leetgiriraj" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50"/>

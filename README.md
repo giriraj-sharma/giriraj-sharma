@@ -68,6 +68,4 @@
 <hr style="border:0.5px solid #1f2937; width:80%;"/>
 
 <!-- ===================== FOOTER ===================== -->
-<p align="center" style="font-size:14px;">
-  Consistent learning. Long-term mindset. Engineering-first approach.
-</p>
+
